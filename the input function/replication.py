@@ -30,3 +30,4 @@ print("+" + 10 * "-" + "+")
 Note the way in which we've used the parentheses in the second line of the code.
 
 Try practicing to create other shapes or your own artwork!
+"""
